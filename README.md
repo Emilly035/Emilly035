@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Emilly035&label=Visitas&color=brightgreen&style=flat" alt="Visitas"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Emilly035.Emilly035&left_text=Visitas&left_color=%23555&right_color=%234c1" alt="Visitas"/>
   <img src="https://img.shields.io/badge/dynamic/json?label=Reposit%C3%B3rios&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FEmilly035&color=brightgreen&style=flat" alt="Repositórios"/>
   <img src="https://img.shields.io/github/followers/Emilly035?label=Seguidores&color=brightgreen&style=flat" alt="Seguidores"/>
 </p>
